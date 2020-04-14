@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SVMKernel", "SVMKernel\SVMKernel.pyproj", "{46E239BE-9A22-4936-94F8-31296AFB8BD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46E239BE-9A22-4936-94F8-31296AFB8BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E239BE-9A22-4936-94F8-31296AFB8BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2A19664-4EB3-483E-B88E-6B7EA807F79A}
+	EndGlobalSection
+EndGlobal
